@@ -1,0 +1,2 @@
+https://github.com/mapsplugin/cordova-plugin-googlemaps/wiki/External-Service
+https://github.com/mapsplugin/cordova-plugin-googlemaps/wiki
